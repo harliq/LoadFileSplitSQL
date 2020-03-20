@@ -1,0 +1,10 @@
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\bin\Debug\LoadFileSplitSQL.exe.config
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\bin\Debug\LoadFileSplitSQL.exe
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\bin\Debug\LoadFileSplitSQL.pdb
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\obj\Debug\LoadFileSplitSQL.csprojAssemblyReference.cache
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\obj\Debug\LoadFileSplitSQL.Form1.resources
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\obj\Debug\LoadFileSplitSQL.Properties.Resources.resources
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\obj\Debug\LoadFileSplitSQL.csproj.GenerateResource.cache
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\obj\Debug\LoadFileSplitSQL.csproj.CoreCompileInputs.cache
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\obj\Debug\LoadFileSplitSQL.exe
+C:\Users\Harli\Documents\Visual Studio 2017\Projects\LoadFileSplitSQL\LoadFileSplitSQL\obj\Debug\LoadFileSplitSQL.pdb
